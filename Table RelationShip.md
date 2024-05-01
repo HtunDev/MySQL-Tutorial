@@ -1,5 +1,3 @@
-# MySQL-Tutorial
-
 # Table RelationShip
 
 One to Many
@@ -22,6 +20,8 @@ Unary RelationShip
 Ternary RelationShip
 <img width="1922" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/d294e721-cfd3-4631-b747-c69660eddcc3">
 <img width="1279" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/3a1cfcb5-627f-44bc-8725-7bb727067fd6">
+<img width="1688" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/ae7f634d-491b-43c7-8248-9dd03f5abcd8">
+
 
 
 
