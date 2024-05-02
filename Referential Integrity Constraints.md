@@ -22,6 +22,19 @@
 <img width="1640" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/01ccb5ef-f585-47ab-b1a0-4557712ec04e">
 <img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/862505a1-3481-4823-ab26-57599dc4f126">
 
+# Reference Option
+
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/b4bdd684-4f6a-40f4-901a-7e70060b5538">
+<img width="1646" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/82baa418-75cd-4d40-a3bb-270e23d341f5">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/59ea3ecf-6f7e-4c04-9967-18e6da354f4e">
+<img width="1746" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/c80103fd-5606-42b9-901a-a6e358862a93">
+<img width="1786" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/f3242462-b072-4da6-8e79-8999a449d17e">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/259b31ce-ae90-474a-afb1-bc9fef5cbd1e">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/b3c6bd2b-ec87-47fa-be40-cbf3411a4237">
+<img width="1720" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/82047b31-8600-42c8-8a47-2ea48bdbd610">
+<img width="1722" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/94c3606d-b62a-4d4f-bc0f-d1cc65629127">
+
+
 
 
 
