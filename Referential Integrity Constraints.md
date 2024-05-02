@@ -14,6 +14,16 @@
 <img width="1772" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/9db98e8d-7374-4cca-9f84-80b38b9d5a6a">
 <img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/30ef3272-9110-4d25-952e-d14dc1f47127">
 
+# Foreign Key Constraint
+
+<img width="1888" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/75cf8306-f88b-471b-963a-6da86046dd1c">
+<img width="1496" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/a69f1b22-88cb-414a-88ee-10c789b32b08">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/e20ea868-07c2-40d3-b996-8c2ca84521a2">
+<img width="1640" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/01ccb5ef-f585-47ab-b1a0-4557712ec04e">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/862505a1-3481-4823-ab26-57599dc4f126">
+
+
+
 
 
 
