@@ -9,3 +9,11 @@
 <img width="1804" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/28a698c4-c7ca-4e02-b3e0-eb67ced53a32">
 <img width="1382" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/31fdca4c-5b86-4107-8961-07daa2de29cf">
 
+# Alter table
+
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/74d3340a-5903-4efc-a5d6-795668ccdfb9">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/ea2035c3-bb95-496b-9576-da92980fb0dc">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/2d355a74-52e1-4b98-ad0e-4e6d0aa48a43">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/e3006cf5-097f-4cca-a612-4149a1c5feb2">
+<img width="1312" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/a50f5640-bcc5-438e-b992-0e989979257d">
+<img width="1254" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/853be420-0a5d-4f7e-bda0-91cfd4a97f15">
