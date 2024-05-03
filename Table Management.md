@@ -29,3 +29,10 @@
 
 <img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/e82594d8-9a37-48ff-8c5b-06748e003fa7">
 <img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/adb724f4-f558-4f32-8ea4-e6227b33bc0a">
+
+#DataBase Management
+
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/fe5dbfeb-7206-4b56-9f9e-c695344bd521">
+<img width="1832" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/27d65153-1339-4527-ab6f-0547aaedc8f4">
+
+
