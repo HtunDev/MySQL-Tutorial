@@ -17,3 +17,8 @@
 <img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/e3006cf5-097f-4cca-a612-4149a1c5feb2">
 <img width="1312" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/a50f5640-bcc5-438e-b992-0e989979257d">
 <img width="1254" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/853be420-0a5d-4f7e-bda0-91cfd4a97f15">
+
+# Drop table
+
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/e82594d8-9a37-48ff-8c5b-06748e003fa7">
+<img width="1920" alt="image" src="https://github.com/HtunDev/MySQL-Tutorial/assets/124241880/adb724f4-f558-4f32-8ea4-e6227b33bc0a">
